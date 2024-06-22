@@ -1,0 +1,1 @@
+import{u as r}from"./vue-router-Dv2l7yOR.js";import{l as t,s}from"./index-DjuSYVCj.js";import{d as n}from"./@vue-C6yEmL9w.js";/* empty css             */import"./vuetify-DRcdfVg7.js";import"./axios-B6xwUs71.js";const l=n({__name:"OAuth2",setup(a){const o=r(),e=o.currentRoute.value.query.token;return e?(s(e),o.replace("/dashboards")):t(),()=>{}}});export{l as default};
