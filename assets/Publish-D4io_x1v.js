@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vueexport-helper-DlAUqK2U.js";import{u as t,o as a}from"./vuetify-BSuz9dYk.js";import{N as r,O as s,P as e,q as c,M as l}from"./@vue-C6yEmL9w.js";const n={};function _(f,i){return r(),s(t,{class:"h-100"},{default:e(()=>[c(a,null,{default:e(()=>[l(" hello, Publish ")]),_:1})]),_:1})}const h=o(n,[["render",_]]);export{h as default};
